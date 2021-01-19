@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "declaration": true,
+    "lib": [
+      "es2017",
+      "es7",
+      "es6",
+      "dom"
+    ],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src"
+  ],
+  "types": [
+    "node"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/__tests__/*",
+    "dist"
+  ],
+}
