@@ -1,4 +1,4 @@
-# Azure DevOps Scrips
+# Azure DevOps Script
 script to generate report azure
 
 ### export variables 
